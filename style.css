@@ -4,4 +4,23 @@
 
 .git_it_done {
     background-image: url("./assets/images/git_it_done.png");
+    padding: 20px;
+}
+
+.horiseon {
+    padding: 25px;
+}
+
+.horiseon_descr {
+    background-color: #2a607c;
+    padding: 20px;
+}
+
+.taskmaster {
+    padding: 25px;
+}
+
+.taskmaster_descr {
+    background-color: #2a607c;
+    padding: 20px;
 }
